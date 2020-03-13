@@ -11,8 +11,6 @@ public class MainActivity extends AppCompatActivity {
     TextView tvWidth;
     TextView tvLength;
 
-    CalculateFlooring calculateFlooring;
-
     public static final String FLOORWIDTH_KEY = "FLOORINGWIDTH_KEY";
     public static final String FLOORLENGTH_KEY = "FLOORINGLENGTH_KEY";
 
