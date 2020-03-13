@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit7Attempt2</string>
+    <string name="note1">With a width of </string>
+    <string name="note2"> feet, and a length of </string>
+    <string name="note3"> feet, you need </string>
+    <string name="note4"> square feet of flooring.</string>
+</resources>
